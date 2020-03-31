@@ -6,7 +6,7 @@ const domovy = [
   ["Český Dub","Zámecká 39/IV, 463 43 Český Dub",14.9944492,50.6627850,0,"2",0,"94",""],
   ["Břevnice","Břevnice 54",15.6122483,49.6327447,20,"10",1,"22",""],
   ["Český Krumlov","Vyšehradská 260, 381 01 Český Krumlov",14.3173158,48.8181672,6,"4",0,"18",""],
-  ["Litoměřice","U Trati 2041, 412 01 Litoměřice",14.1435703,50.5396508,4,"1",1,"70",""],
+  ["Litoměřice","U Trati 2041, 412 01 Litoměřice",14.1435703,50.5396508,52,"3",1,"65",""],
   ["Liberec","Domažlická 880/8, 460 10 Liberec 12-Františkov",15.0340733,50.7590903,2,"1",0,"200",""],
   ["Ostrava","Rybářská 13, 709 00, Ostrava-Mariánské Hory",18.2475114,49.8342731,0,"1",0,"není známo",""],
   ["Nemocnice svaté Alžběty","Na Slupi 448/1, 128 00 Nové Město",14.4203853,50.0692444,2,"2",0,"není známo","údaje o nakažených k 23. 3."]
